@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://catherinbor.github.io/.github/typinator">  
+<a href="https://tanahavlic8094.github.io/.github/typinator">  
 <img src="https://img.shields.io/badge/Get_Typinator-darkblue?style=for-the-badge&logo=apple" alt="Get Typinator">  
 </a>  
 </div>  
